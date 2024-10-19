@@ -15,6 +15,8 @@ Ejecuta el proyecto con dotnet run.
 Accede a https://localhost en tu navegador.
 */
 
+
+
 --Capturas--
 ![image](https://github.com/user-attachments/assets/689ffe20-4fe6-4116-a5c7-acf455b0e6c2)
 ![image](https://github.com/user-attachments/assets/fafe3a17-b94c-4262-be38-e88e38df6067)
