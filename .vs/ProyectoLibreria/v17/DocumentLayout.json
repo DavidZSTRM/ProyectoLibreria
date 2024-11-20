@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F7EC74-74E7-41F9-AA37-46FA77A68474}|ProyectoLibreria\\ProyectoLibreria.csproj|c:\\users\\desarrollador 8.0\\proyectolibreria\\proyectolibreria\\models\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F7EC74-74E7-41F9-AA37-46FA77A68474}|ProyectoLibreria\\ProyectoLibreria.csproj|solutionrelative:proyectolibreria\\models\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F7EC74-74E7-41F9-AA37-46FA77A68474}|ProyectoLibreria\\ProyectoLibreria.csproj|c:\\users\\desarrollador 8.0\\proyectolibreria\\proyectolibreria\\models\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F7EC74-74E7-41F9-AA37-46FA77A68474}|ProyectoLibreria\\ProyectoLibreria.csproj|solutionrelative:proyectolibreria\\models\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F7EC74-74E7-41F9-AA37-46FA77A68474}|ProyectoLibreria\\ProyectoLibreria.csproj|c:\\users\\desarrollador 8.0\\proyectolibreria\\proyectolibreria\\models\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F7EC74-74E7-41F9-AA37-46FA77A68474}|ProyectoLibreria\\ProyectoLibreria.csproj|solutionrelative:proyectolibreria\\models\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\ProyectoLibreria\\Models\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria\\Models\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\ProyectoLibreria\\Models\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "ProyectoLibreria\\Models\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:05:31.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\ProyectoLibreria\\Models\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria\\Models\\Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\ProyectoLibreria\\Models\\Entidades\\Libro.cs",
+              "RelativeToolTip": "ProyectoLibreria\\Models\\Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:05:23.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\ProyectoLibreria\\Models\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "ProyectoLibreria\\Models\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\DESARROLLADOR 8.0\\ProyectoLibreria\\ProyectoLibreria\\Models\\Entidades\\Autor.cs",
+              "RelativeToolTip": "ProyectoLibreria\\Models\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:05:17.018Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
